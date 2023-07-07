@@ -34,8 +34,12 @@ class FacebookScraper:
         return True
 
     def __click(self, element):
-        self.action.move_to_element(element).click().perform()
-        time.sleep(1)
+        try:
+            self.action.move_to_element(element).click().perform()
+            time.sleep(1)
+        except Exception as e:
+            self.logger.warning(e)
+            return -1
 
     def __get_driver(self):
         options = Options()
@@ -134,13 +138,15 @@ class FacebookScraper:
             data["commenter"] = ""
             data["fan_page"] = ""
 
-        div_elements = review.select('div[dir="auto"][style="text-align:start"]')
+        div_elements = review.select('div[class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs x126k92a"]')
         data["comment"] = "" if not div_elements else div_elements[0].text
 
         div_elements = review.select('div[dir="auto"][style="text-align: start;"]')
+
         replies = {}
         for k, v in enumerate(div_elements):
             replies[k] = v.text
+
         data["replies"] = json.dumps(replies, ensure_ascii=False)
         return data
 

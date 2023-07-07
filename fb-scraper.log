@@ -31,3 +31,1546 @@
 2023-07-06 10:58:43,511 - INFO - processing in comment 7
 2023-07-06 10:58:43,520 - INFO - processing in comment 8
 2023-07-06 10:58:43,529 - INFO - processing in comment 9
+2023-07-07 16:45:26,633 - INFO - processing in url 0
+2023-07-07 16:45:55,943 - INFO - processing in comment 0
+2023-07-07 16:45:55,963 - INFO - processing in comment 1
+2023-07-07 16:45:55,972 - INFO - processing in comment 2
+2023-07-07 16:45:55,980 - INFO - processing in comment 3
+2023-07-07 16:45:55,993 - INFO - processing in comment 4
+2023-07-07 16:45:56,000 - INFO - processing in comment 5
+2023-07-07 16:45:56,007 - INFO - processing in comment 6
+2023-07-07 16:45:56,013 - INFO - processing in comment 7
+2023-07-07 16:45:56,021 - INFO - processing in comment 8
+2023-07-07 16:45:56,029 - INFO - processing in comment 9
+2023-07-07 16:45:56,041 - INFO - processing in url 1
+2023-07-07 16:46:09,984 - WARNING - argument of type 'NoneType' is not iterable
+2023-07-07 16:46:09,985 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 16:46:09,985 - INFO - retrying in url 1
+2023-07-07 16:48:50,852 - INFO - processing in url 0
+2023-07-07 16:49:20,017 - INFO - processing in comment 0
+2023-07-07 16:49:20,037 - INFO - processing in comment 1
+2023-07-07 16:49:20,047 - INFO - processing in comment 2
+2023-07-07 16:49:20,055 - INFO - processing in comment 3
+2023-07-07 16:49:20,069 - INFO - processing in comment 4
+2023-07-07 16:49:20,076 - INFO - processing in comment 5
+2023-07-07 16:49:20,084 - INFO - processing in comment 6
+2023-07-07 16:49:20,091 - INFO - processing in comment 7
+2023-07-07 16:49:20,099 - INFO - processing in comment 8
+2023-07-07 16:49:20,108 - INFO - processing in comment 9
+2023-07-07 16:49:20,117 - INFO - processing in url 1
+2023-07-07 16:50:55,145 - INFO - processing in comment 0
+2023-07-07 16:50:55,154 - INFO - processing in comment 1
+2023-07-07 16:50:55,164 - INFO - processing in comment 2
+2023-07-07 16:50:55,172 - INFO - processing in comment 3
+2023-07-07 16:50:55,181 - INFO - processing in comment 4
+2023-07-07 16:50:55,189 - INFO - processing in comment 5
+2023-07-07 16:50:55,197 - INFO - processing in comment 6
+2023-07-07 16:50:55,203 - INFO - processing in comment 7
+2023-07-07 16:50:55,209 - INFO - processing in comment 8
+2023-07-07 16:50:55,218 - INFO - processing in comment 9
+2023-07-07 16:50:55,226 - INFO - processing in comment 10
+2023-07-07 16:50:55,234 - INFO - processing in comment 11
+2023-07-07 16:50:55,247 - INFO - processing in comment 12
+2023-07-07 16:50:55,255 - INFO - processing in comment 13
+2023-07-07 16:50:55,263 - INFO - processing in comment 14
+2023-07-07 16:50:55,268 - INFO - processing in comment 15
+2023-07-07 16:50:55,281 - INFO - processing in comment 16
+2023-07-07 16:50:55,290 - INFO - processing in comment 17
+2023-07-07 16:50:55,297 - INFO - processing in comment 18
+2023-07-07 16:50:55,305 - INFO - processing in comment 19
+2023-07-07 16:50:55,314 - INFO - processing in comment 20
+2023-07-07 16:50:55,322 - INFO - processing in comment 21
+2023-07-07 16:50:55,329 - INFO - processing in comment 22
+2023-07-07 16:50:55,337 - INFO - processing in comment 23
+2023-07-07 16:50:55,346 - INFO - processing in comment 24
+2023-07-07 16:50:55,351 - INFO - processing in comment 25
+2023-07-07 16:50:55,358 - INFO - processing in comment 26
+2023-07-07 16:50:55,366 - INFO - processing in comment 27
+2023-07-07 16:50:55,372 - INFO - processing in comment 28
+2023-07-07 16:50:55,379 - INFO - processing in comment 29
+2023-07-07 16:50:55,388 - INFO - processing in comment 30
+2023-07-07 16:50:55,394 - INFO - processing in comment 31
+2023-07-07 16:50:55,401 - INFO - processing in comment 32
+2023-07-07 16:50:55,409 - INFO - processing in comment 33
+2023-07-07 16:50:55,418 - INFO - processing in comment 34
+2023-07-07 16:50:55,425 - INFO - processing in comment 35
+2023-07-07 16:50:55,434 - INFO - processing in comment 36
+2023-07-07 16:50:55,440 - INFO - processing in comment 37
+2023-07-07 16:50:55,446 - INFO - processing in comment 38
+2023-07-07 16:50:55,453 - INFO - processing in comment 39
+2023-07-07 16:50:55,459 - INFO - processing in comment 40
+2023-07-07 16:50:55,465 - INFO - processing in comment 41
+2023-07-07 16:50:55,473 - INFO - processing in comment 42
+2023-07-07 16:50:55,481 - INFO - processing in comment 43
+2023-07-07 16:50:55,486 - INFO - processing in comment 44
+2023-07-07 16:50:55,494 - INFO - processing in comment 45
+2023-07-07 16:50:55,500 - INFO - processing in comment 46
+2023-07-07 16:50:55,506 - INFO - processing in comment 47
+2023-07-07 16:50:55,512 - INFO - processing in comment 48
+2023-07-07 16:50:55,521 - INFO - processing in comment 49
+2023-07-07 16:50:55,527 - INFO - processing in comment 50
+2023-07-07 16:50:55,535 - INFO - processing in comment 51
+2023-07-07 16:50:55,544 - INFO - processing in comment 52
+2023-07-07 16:50:55,549 - INFO - processing in comment 53
+2023-07-07 16:50:55,556 - INFO - processing in comment 54
+2023-07-07 16:50:55,564 - INFO - processing in comment 55
+2023-07-07 16:50:55,569 - INFO - processing in comment 56
+2023-07-07 16:50:55,576 - INFO - processing in comment 57
+2023-07-07 16:50:55,582 - INFO - processing in comment 58
+2023-07-07 16:50:55,589 - INFO - processing in comment 59
+2023-07-07 16:50:55,595 - INFO - processing in comment 60
+2023-07-07 16:50:55,604 - INFO - processing in comment 61
+2023-07-07 16:50:55,612 - INFO - processing in comment 62
+2023-07-07 16:50:55,620 - INFO - processing in comment 63
+2023-07-07 16:50:55,628 - INFO - processing in comment 64
+2023-07-07 16:50:55,634 - INFO - processing in comment 65
+2023-07-07 16:50:55,642 - INFO - processing in comment 66
+2023-07-07 16:50:55,648 - INFO - processing in comment 67
+2023-07-07 16:50:55,654 - INFO - processing in comment 68
+2023-07-07 16:50:55,660 - INFO - processing in comment 69
+2023-07-07 16:50:55,669 - INFO - processing in comment 70
+2023-07-07 16:50:55,674 - INFO - processing in comment 71
+2023-07-07 16:50:55,680 - INFO - processing in comment 72
+2023-07-07 16:50:55,690 - INFO - processing in comment 73
+2023-07-07 16:50:55,697 - INFO - processing in comment 74
+2023-07-07 16:50:55,709 - INFO - processing in comment 75
+2023-07-07 16:50:55,718 - INFO - processing in comment 76
+2023-07-07 16:50:55,727 - INFO - processing in comment 77
+2023-07-07 16:50:55,732 - INFO - processing in comment 78
+2023-07-07 16:50:55,741 - INFO - processing in comment 79
+2023-07-07 16:50:55,747 - INFO - processing in comment 80
+2023-07-07 16:50:55,755 - INFO - processing in comment 81
+2023-07-07 16:50:55,768 - INFO - processing in comment 82
+2023-07-07 16:50:55,778 - INFO - processing in comment 83
+2023-07-07 16:50:55,786 - INFO - processing in comment 84
+2023-07-07 16:50:55,794 - INFO - processing in comment 85
+2023-07-07 16:50:55,802 - INFO - processing in comment 86
+2023-07-07 16:50:55,808 - INFO - processing in comment 87
+2023-07-07 16:50:55,818 - INFO - processing in comment 88
+2023-07-07 16:50:55,827 - INFO - processing in comment 89
+2023-07-07 16:50:55,835 - INFO - processing in comment 90
+2023-07-07 16:50:55,840 - INFO - processing in comment 91
+2023-07-07 16:55:04,811 - INFO - processing in url 0
+2023-07-07 16:55:33,673 - INFO - processing in comment 0
+2023-07-07 16:55:33,694 - INFO - processing in comment 1
+2023-07-07 16:55:33,703 - INFO - processing in comment 2
+2023-07-07 16:55:33,711 - INFO - processing in comment 3
+2023-07-07 16:55:33,725 - INFO - processing in comment 4
+2023-07-07 16:55:33,732 - INFO - processing in comment 5
+2023-07-07 16:55:33,739 - INFO - processing in comment 6
+2023-07-07 16:55:33,746 - INFO - processing in comment 7
+2023-07-07 16:55:33,754 - INFO - processing in comment 8
+2023-07-07 16:55:33,762 - INFO - processing in comment 9
+2023-07-07 16:55:33,772 - INFO - processing in url 1
+2023-07-07 16:56:09,187 - INFO - processing in comment 0
+2023-07-07 16:56:09,197 - INFO - processing in comment 1
+2023-07-07 16:56:09,207 - INFO - processing in comment 2
+2023-07-07 16:56:09,216 - INFO - processing in comment 3
+2023-07-07 16:56:09,224 - INFO - processing in comment 4
+2023-07-07 16:56:09,233 - INFO - processing in comment 5
+2023-07-07 16:56:09,242 - INFO - processing in comment 6
+2023-07-07 16:56:09,247 - INFO - processing in comment 7
+2023-07-07 16:56:09,253 - INFO - processing in comment 8
+2023-07-07 16:56:09,262 - INFO - processing in comment 9
+2023-07-07 16:56:09,270 - INFO - processing in comment 10
+2023-07-07 16:56:09,278 - INFO - processing in comment 11
+2023-07-07 16:56:09,292 - INFO - processing in comment 12
+2023-07-07 16:56:09,302 - INFO - processing in comment 13
+2023-07-07 16:56:09,312 - INFO - processing in comment 14
+2023-07-07 16:56:09,319 - INFO - processing in comment 15
+2023-07-07 16:56:09,335 - INFO - processing in comment 16
+2023-07-07 16:56:09,346 - INFO - processing in comment 17
+2023-07-07 16:56:09,354 - INFO - processing in comment 18
+2023-07-07 16:56:09,363 - INFO - processing in comment 19
+2023-07-07 16:56:09,373 - INFO - processing in comment 20
+2023-07-07 16:56:09,382 - INFO - processing in comment 21
+2023-07-07 16:56:09,390 - INFO - processing in comment 22
+2023-07-07 16:56:09,399 - INFO - processing in comment 23
+2023-07-07 16:56:09,410 - INFO - processing in url 2
+2023-07-07 16:56:14,420 - WARNING - list index out of range
+2023-07-07 16:56:14,420 - INFO - retrying in url 2
+2023-07-07 16:56:19,432 - WARNING - list index out of range
+2023-07-07 16:56:19,432 - INFO - retrying in url 2
+2023-07-07 16:56:24,434 - WARNING - list index out of range
+2023-07-07 16:56:24,434 - INFO - retrying in url 2
+2023-07-07 16:56:29,447 - WARNING - list index out of range
+2023-07-07 16:56:29,447 - INFO - retrying in url 2
+2023-07-07 16:56:34,451 - WARNING - list index out of range
+2023-07-07 16:56:34,451 - INFO - processing in url 3
+2023-07-07 16:56:39,456 - WARNING - list index out of range
+2023-07-07 16:56:39,456 - INFO - retrying in url 3
+2023-07-07 16:56:44,459 - WARNING - list index out of range
+2023-07-07 16:56:44,459 - INFO - retrying in url 3
+2023-07-07 16:57:06,520 - INFO - processing in url 0
+2023-07-07 16:57:35,879 - INFO - processing in comment 0
+2023-07-07 16:57:35,901 - INFO - processing in comment 1
+2023-07-07 16:57:35,910 - INFO - processing in comment 2
+2023-07-07 16:57:35,918 - INFO - processing in comment 3
+2023-07-07 16:57:35,932 - INFO - processing in comment 4
+2023-07-07 16:57:35,939 - INFO - processing in comment 5
+2023-07-07 16:57:35,946 - INFO - processing in comment 6
+2023-07-07 16:57:35,953 - INFO - processing in comment 7
+2023-07-07 16:57:35,961 - INFO - processing in comment 8
+2023-07-07 16:57:35,970 - INFO - processing in comment 9
+2023-07-07 16:57:35,979 - INFO - processing in url 1
+2023-07-07 16:59:14,097 - INFO - processing in comment 0
+2023-07-07 16:59:14,106 - INFO - processing in comment 1
+2023-07-07 16:59:14,116 - INFO - processing in comment 2
+2023-07-07 16:59:14,124 - INFO - processing in comment 3
+2023-07-07 16:59:14,134 - INFO - processing in comment 4
+2023-07-07 16:59:14,143 - INFO - processing in comment 5
+2023-07-07 16:59:14,151 - INFO - processing in comment 6
+2023-07-07 16:59:14,158 - INFO - processing in comment 7
+2023-07-07 16:59:14,164 - INFO - processing in comment 8
+2023-07-07 16:59:14,173 - INFO - processing in comment 9
+2023-07-07 16:59:14,181 - INFO - processing in comment 10
+2023-07-07 16:59:14,189 - INFO - processing in comment 11
+2023-07-07 16:59:14,202 - INFO - processing in comment 12
+2023-07-07 16:59:14,212 - INFO - processing in comment 13
+2023-07-07 16:59:14,220 - INFO - processing in comment 14
+2023-07-07 16:59:14,226 - INFO - processing in comment 15
+2023-07-07 16:59:14,239 - INFO - processing in comment 16
+2023-07-07 16:59:14,248 - INFO - processing in comment 17
+2023-07-07 16:59:14,254 - INFO - processing in comment 18
+2023-07-07 16:59:14,263 - INFO - processing in comment 19
+2023-07-07 16:59:14,271 - INFO - processing in comment 20
+2023-07-07 16:59:14,280 - INFO - processing in comment 21
+2023-07-07 16:59:14,287 - INFO - processing in comment 22
+2023-07-07 16:59:14,295 - INFO - processing in comment 23
+2023-07-07 16:59:14,304 - INFO - processing in comment 24
+2023-07-07 16:59:14,311 - INFO - processing in comment 25
+2023-07-07 16:59:14,318 - INFO - processing in comment 26
+2023-07-07 16:59:14,327 - INFO - processing in comment 27
+2023-07-07 16:59:14,332 - INFO - processing in comment 28
+2023-07-07 16:59:14,340 - INFO - processing in comment 29
+2023-07-07 16:59:14,349 - INFO - processing in comment 30
+2023-07-07 16:59:14,355 - INFO - processing in comment 31
+2023-07-07 16:59:14,362 - INFO - processing in comment 32
+2023-07-07 16:59:14,371 - INFO - processing in comment 33
+2023-07-07 16:59:14,380 - INFO - processing in comment 34
+2023-07-07 16:59:14,387 - INFO - processing in comment 35
+2023-07-07 16:59:14,397 - INFO - processing in comment 36
+2023-07-07 16:59:14,402 - INFO - processing in comment 37
+2023-07-07 16:59:14,408 - INFO - processing in comment 38
+2023-07-07 16:59:14,417 - INFO - processing in comment 39
+2023-07-07 16:59:14,422 - INFO - processing in comment 40
+2023-07-07 16:59:14,427 - INFO - processing in comment 41
+2023-07-07 16:59:14,436 - INFO - processing in comment 42
+2023-07-07 16:59:14,445 - INFO - processing in comment 43
+2023-07-07 16:59:14,450 - INFO - processing in comment 44
+2023-07-07 16:59:14,457 - INFO - processing in comment 45
+2023-07-07 16:59:14,463 - INFO - processing in comment 46
+2023-07-07 16:59:14,470 - INFO - processing in comment 47
+2023-07-07 16:59:14,477 - INFO - processing in comment 48
+2023-07-07 16:59:14,486 - INFO - processing in comment 49
+2023-07-07 16:59:14,492 - INFO - processing in comment 50
+2023-07-07 16:59:14,500 - INFO - processing in comment 51
+2023-07-07 16:59:14,509 - INFO - processing in comment 52
+2023-07-07 16:59:14,515 - INFO - processing in comment 53
+2023-07-07 16:59:14,520 - INFO - processing in comment 54
+2023-07-07 16:59:14,529 - INFO - processing in comment 55
+2023-07-07 16:59:14,535 - INFO - processing in comment 56
+2023-07-07 16:59:14,541 - INFO - processing in comment 57
+2023-07-07 16:59:14,547 - INFO - processing in comment 58
+2023-07-07 16:59:14,555 - INFO - processing in comment 59
+2023-07-07 16:59:14,561 - INFO - processing in comment 60
+2023-07-07 16:59:14,569 - INFO - processing in comment 61
+2023-07-07 16:59:14,578 - INFO - processing in comment 62
+2023-07-07 16:59:14,586 - INFO - processing in comment 63
+2023-07-07 16:59:14,595 - INFO - processing in comment 64
+2023-07-07 16:59:14,600 - INFO - processing in comment 65
+2023-07-07 16:59:14,608 - INFO - processing in comment 66
+2023-07-07 16:59:14,615 - INFO - processing in comment 67
+2023-07-07 16:59:14,620 - INFO - processing in comment 68
+2023-07-07 16:59:14,628 - INFO - processing in comment 69
+2023-07-07 16:59:14,637 - INFO - processing in comment 70
+2023-07-07 16:59:14,643 - INFO - processing in comment 71
+2023-07-07 16:59:14,649 - INFO - processing in comment 72
+2023-07-07 16:59:14,657 - INFO - processing in comment 73
+2023-07-07 16:59:14,665 - INFO - processing in comment 74
+2023-07-07 16:59:14,677 - INFO - processing in comment 75
+2023-07-07 16:59:14,685 - INFO - processing in comment 76
+2023-07-07 16:59:14,695 - INFO - processing in comment 77
+2023-07-07 16:59:14,700 - INFO - processing in comment 78
+2023-07-07 16:59:14,710 - INFO - processing in comment 79
+2023-07-07 16:59:14,715 - INFO - processing in comment 80
+2023-07-07 16:59:14,728 - INFO - processing in comment 81
+2023-07-07 16:59:14,741 - INFO - processing in comment 82
+2023-07-07 16:59:14,751 - INFO - processing in comment 83
+2023-07-07 16:59:14,760 - INFO - processing in comment 84
+2023-07-07 16:59:14,768 - INFO - processing in comment 85
+2023-07-07 16:59:14,777 - INFO - processing in comment 86
+2023-07-07 16:59:14,783 - INFO - processing in comment 87
+2023-07-07 16:59:14,793 - INFO - processing in comment 88
+2023-07-07 16:59:14,803 - INFO - processing in comment 89
+2023-07-07 16:59:14,812 - INFO - processing in comment 90
+2023-07-07 16:59:14,817 - INFO - processing in comment 91
+2023-07-07 17:04:20,035 - INFO - processing in url 0
+2023-07-07 17:04:26,815 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:04:26,815 - INFO - retrying in url 0
+2023-07-07 17:04:47,882 - INFO - processing in url 0
+2023-07-07 17:05:17,911 - INFO - processing in comment 0
+2023-07-07 17:05:17,933 - INFO - processing in comment 1
+2023-07-07 17:05:17,942 - WARNING - list index out of range
+2023-07-07 17:05:17,942 - INFO - retrying in url 0
+2023-07-07 17:05:46,762 - INFO - processing in comment 0
+2023-07-07 17:05:46,784 - INFO - processing in comment 1
+2023-07-07 17:05:46,794 - WARNING - list index out of range
+2023-07-07 17:05:46,794 - INFO - retrying in url 0
+2023-07-07 17:06:15,616 - INFO - processing in comment 0
+2023-07-07 17:06:15,637 - INFO - processing in comment 1
+2023-07-07 17:06:15,647 - WARNING - list index out of range
+2023-07-07 17:06:15,647 - INFO - retrying in url 0
+2023-07-07 17:06:45,402 - INFO - processing in comment 0
+2023-07-07 17:06:45,423 - INFO - processing in comment 1
+2023-07-07 17:06:45,432 - WARNING - list index out of range
+2023-07-07 17:06:45,433 - INFO - retrying in url 0
+2023-07-07 17:06:59,347 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:06:59,348 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:06:59,348 - INFO - processing in url 1
+2023-07-07 17:07:04,353 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:04,353 - INFO - retrying in url 1
+2023-07-07 17:07:09,359 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:09,359 - INFO - retrying in url 1
+2023-07-07 17:07:14,359 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:14,360 - INFO - retrying in url 1
+2023-07-07 17:07:19,366 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:19,366 - INFO - retrying in url 1
+2023-07-07 17:07:24,374 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:24,374 - INFO - processing in url 2
+2023-07-07 17:07:29,389 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:29,389 - INFO - retrying in url 2
+2023-07-07 17:07:34,395 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:34,395 - INFO - retrying in url 2
+2023-07-07 17:07:39,400 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:39,401 - INFO - retrying in url 2
+2023-07-07 17:07:44,408 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:44,409 - INFO - retrying in url 2
+2023-07-07 17:07:49,414 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:49,414 - INFO - processing in url 3
+2023-07-07 17:07:54,425 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:54,425 - INFO - retrying in url 3
+2023-07-07 17:07:59,438 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:07:59,438 - INFO - retrying in url 3
+2023-07-07 17:08:04,443 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:08:04,443 - INFO - retrying in url 3
+2023-07-07 17:08:09,449 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:08:09,450 - INFO - retrying in url 3
+2023-07-07 17:08:14,463 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:08:21,999 - INFO - processing in url 0
+2023-07-07 17:08:51,109 - INFO - processing in comment 0
+2023-07-07 17:08:51,130 - INFO - processing in comment 1
+2023-07-07 17:08:51,140 - INFO - processing in comment 2
+2023-07-07 17:08:51,148 - INFO - processing in comment 3
+2023-07-07 17:08:51,164 - INFO - processing in comment 4
+2023-07-07 17:08:51,172 - INFO - processing in comment 5
+2023-07-07 17:08:51,179 - INFO - processing in comment 6
+2023-07-07 17:08:51,185 - INFO - processing in comment 7
+2023-07-07 17:08:51,194 - INFO - processing in comment 8
+2023-07-07 17:08:51,203 - INFO - processing in comment 9
+2023-07-07 17:08:51,212 - WARNING - Cannot save file into a non-existent directory: 'reviews'
+2023-07-07 17:08:51,212 - INFO - retrying in url 0
+2023-07-07 17:09:20,669 - INFO - processing in comment 0
+2023-07-07 17:09:20,689 - INFO - processing in comment 1
+2023-07-07 17:09:20,699 - INFO - processing in comment 2
+2023-07-07 17:09:20,707 - INFO - processing in comment 3
+2023-07-07 17:09:20,722 - INFO - processing in comment 4
+2023-07-07 17:09:20,730 - INFO - processing in comment 5
+2023-07-07 17:09:20,737 - INFO - processing in comment 6
+2023-07-07 17:09:20,744 - INFO - processing in comment 7
+2023-07-07 17:09:20,752 - INFO - processing in comment 8
+2023-07-07 17:09:20,762 - INFO - processing in comment 9
+2023-07-07 17:09:20,770 - WARNING - Cannot save file into a non-existent directory: 'reviews'
+2023-07-07 17:09:20,770 - INFO - retrying in url 0
+2023-07-07 17:10:20,656 - INFO - processing in url 0
+2023-07-07 17:10:49,279 - INFO - processing in comment 0
+2023-07-07 17:10:49,301 - INFO - processing in comment 1
+2023-07-07 17:10:49,311 - WARNING - list index out of range
+2023-07-07 17:10:49,311 - INFO - retrying in url 0
+2023-07-07 17:11:58,539 - INFO - processing in url 0
+2023-07-07 17:12:27,457 - INFO - processing in comment 0
+2023-07-07 17:12:27,479 - INFO - processing in comment 1
+2023-07-07 17:12:27,489 - INFO - processing in comment 2
+2023-07-07 17:12:27,497 - INFO - processing in comment 3
+2023-07-07 17:12:27,512 - INFO - processing in comment 4
+2023-07-07 17:12:27,519 - INFO - processing in comment 5
+2023-07-07 17:12:27,527 - INFO - processing in comment 6
+2023-07-07 17:12:27,534 - INFO - processing in comment 7
+2023-07-07 17:12:27,543 - INFO - processing in comment 8
+2023-07-07 17:12:27,552 - INFO - processing in comment 9
+2023-07-07 17:12:27,563 - INFO - processing in url 1
+2023-07-07 17:13:04,022 - INFO - processing in comment 0
+2023-07-07 17:13:04,032 - INFO - processing in comment 1
+2023-07-07 17:13:04,042 - INFO - processing in comment 2
+2023-07-07 17:13:04,050 - INFO - processing in comment 3
+2023-07-07 17:13:04,059 - INFO - processing in comment 4
+2023-07-07 17:13:04,068 - INFO - processing in comment 5
+2023-07-07 17:13:04,077 - INFO - processing in comment 6
+2023-07-07 17:13:04,083 - INFO - processing in comment 7
+2023-07-07 17:13:04,089 - INFO - processing in comment 8
+2023-07-07 17:13:04,098 - INFO - processing in comment 9
+2023-07-07 17:13:04,107 - INFO - processing in comment 10
+2023-07-07 17:13:04,115 - INFO - processing in comment 11
+2023-07-07 17:13:04,129 - INFO - processing in comment 12
+2023-07-07 17:13:04,137 - INFO - processing in comment 13
+2023-07-07 17:13:04,146 - INFO - processing in comment 14
+2023-07-07 17:13:04,152 - INFO - processing in comment 15
+2023-07-07 17:13:04,166 - INFO - processing in comment 16
+2023-07-07 17:13:04,173 - INFO - processing in comment 17
+2023-07-07 17:13:04,181 - INFO - processing in comment 18
+2023-07-07 17:13:04,189 - INFO - processing in comment 19
+2023-07-07 17:13:04,198 - INFO - processing in comment 20
+2023-07-07 17:13:04,207 - INFO - processing in comment 21
+2023-07-07 17:13:04,215 - INFO - processing in comment 22
+2023-07-07 17:13:04,224 - INFO - processing in comment 23
+2023-07-07 17:13:04,233 - INFO - processing in comment 24
+2023-07-07 17:13:04,240 - INFO - processing in comment 25
+2023-07-07 17:13:04,248 - INFO - processing in comment 26
+2023-07-07 17:13:04,256 - INFO - processing in comment 27
+2023-07-07 17:13:04,262 - INFO - processing in comment 28
+2023-07-07 17:13:04,271 - INFO - processing in comment 29
+2023-07-07 17:13:04,282 - INFO - processing in comment 30
+2023-07-07 17:13:04,292 - INFO - processing in comment 31
+2023-07-07 17:13:04,299 - INFO - processing in comment 32
+2023-07-07 17:13:04,308 - INFO - processing in comment 33
+2023-07-07 17:13:04,318 - INFO - processing in comment 34
+2023-07-07 17:13:04,326 - INFO - processing in comment 35
+2023-07-07 17:13:04,336 - INFO - processing in comment 36
+2023-07-07 17:13:04,342 - INFO - processing in comment 37
+2023-07-07 17:13:04,348 - INFO - processing in comment 38
+2023-07-07 17:13:04,358 - INFO - processing in url 2
+2023-07-07 17:13:43,324 - INFO - processing in comment 0
+2023-07-07 17:13:43,334 - INFO - processing in comment 1
+2023-07-07 17:13:43,341 - INFO - processing in comment 2
+2023-07-07 17:13:43,349 - INFO - processing in comment 3
+2023-07-07 17:13:43,355 - INFO - processing in comment 4
+2023-07-07 17:13:43,362 - INFO - processing in comment 5
+2023-07-07 17:13:43,370 - INFO - processing in comment 6
+2023-07-07 17:13:43,377 - INFO - processing in comment 7
+2023-07-07 17:13:43,386 - INFO - processing in comment 8
+2023-07-07 17:13:43,393 - INFO - processing in comment 9
+2023-07-07 17:13:43,399 - INFO - processing in comment 10
+2023-07-07 17:13:43,408 - INFO - processing in comment 11
+2023-07-07 17:13:43,416 - INFO - processing in comment 12
+2023-07-07 17:13:43,422 - INFO - processing in comment 13
+2023-07-07 17:13:43,429 - INFO - processing in comment 14
+2023-07-07 17:13:43,437 - INFO - processing in comment 15
+2023-07-07 17:13:43,446 - INFO - processing in comment 16
+2023-07-07 17:13:43,453 - INFO - processing in comment 17
+2023-07-07 17:13:43,460 - INFO - processing in comment 18
+2023-07-07 17:13:43,465 - INFO - processing in comment 19
+2023-07-07 17:13:43,473 - INFO - processing in comment 20
+2023-07-07 17:13:43,480 - INFO - processing in comment 21
+2023-07-07 17:13:43,488 - INFO - processing in comment 22
+2023-07-07 17:13:43,495 - INFO - processing in comment 23
+2023-07-07 17:13:43,503 - INFO - processing in comment 24
+2023-07-07 17:13:43,511 - INFO - processing in comment 25
+2023-07-07 17:13:43,517 - INFO - processing in comment 26
+2023-07-07 17:13:43,526 - INFO - processing in comment 27
+2023-07-07 17:13:43,532 - INFO - processing in comment 28
+2023-07-07 17:13:43,540 - INFO - processing in comment 29
+2023-07-07 17:13:43,548 - INFO - processing in comment 30
+2023-07-07 17:13:43,555 - INFO - processing in comment 31
+2023-07-07 17:13:43,562 - INFO - processing in comment 32
+2023-07-07 17:13:43,570 - INFO - processing in url 3
+2023-07-07 17:14:11,304 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:14:11,304 - INFO - retrying in url 3
+2023-07-07 17:14:38,601 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:14:38,601 - INFO - retrying in url 3
+2023-07-07 17:15:05,556 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:15:05,556 - INFO - retrying in url 3
+2023-07-07 17:16:11,236 - INFO - processing in url 0
+2023-07-07 17:16:50,154 - INFO - processing in comment 0
+2023-07-07 17:16:50,165 - INFO - processing in comment 1
+2023-07-07 17:16:50,172 - INFO - processing in comment 2
+2023-07-07 17:16:50,180 - INFO - processing in comment 3
+2023-07-07 17:16:50,186 - INFO - processing in comment 4
+2023-07-07 17:16:50,193 - INFO - processing in comment 5
+2023-07-07 17:16:50,200 - INFO - processing in comment 6
+2023-07-07 17:16:50,207 - INFO - processing in comment 7
+2023-07-07 17:16:50,217 - INFO - processing in comment 8
+2023-07-07 17:16:50,224 - INFO - processing in comment 9
+2023-07-07 17:16:50,229 - INFO - processing in comment 10
+2023-07-07 17:16:50,238 - INFO - processing in comment 11
+2023-07-07 17:16:50,246 - INFO - processing in comment 12
+2023-07-07 17:16:50,252 - INFO - processing in comment 13
+2023-07-07 17:16:50,258 - INFO - processing in comment 14
+2023-07-07 17:16:50,266 - INFO - processing in comment 15
+2023-07-07 17:16:50,274 - INFO - processing in comment 16
+2023-07-07 17:16:50,282 - INFO - processing in comment 17
+2023-07-07 17:16:50,288 - INFO - processing in comment 18
+2023-07-07 17:16:50,293 - INFO - processing in comment 19
+2023-07-07 17:16:50,300 - INFO - processing in comment 20
+2023-07-07 17:16:50,306 - INFO - processing in comment 21
+2023-07-07 17:16:50,314 - INFO - processing in comment 22
+2023-07-07 17:16:50,320 - INFO - processing in comment 23
+2023-07-07 17:16:50,327 - INFO - processing in comment 24
+2023-07-07 17:16:50,335 - INFO - processing in comment 25
+2023-07-07 17:16:50,341 - INFO - processing in comment 26
+2023-07-07 17:16:50,349 - INFO - processing in comment 27
+2023-07-07 17:16:50,355 - INFO - processing in comment 28
+2023-07-07 17:16:50,363 - INFO - processing in comment 29
+2023-07-07 17:16:50,370 - INFO - processing in comment 30
+2023-07-07 17:16:50,376 - INFO - processing in comment 31
+2023-07-07 17:16:50,383 - INFO - processing in comment 32
+2023-07-07 17:16:50,392 - INFO - processing in url 1
+2023-07-07 17:17:17,209 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:17:17,209 - INFO - retrying in url 1
+2023-07-07 17:17:44,566 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:17:44,566 - INFO - retrying in url 1
+2023-07-07 17:18:02,415 - WARNING - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x0048D293]
+	(No symbol) [0x004EE37B]
+	(No symbol) [0x004FC473]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:18:02,416 - INFO - retrying in url 1
+2023-07-07 17:20:03,264 - INFO - processing in url 0
+2023-07-07 17:20:36,114 - INFO - processing in url 0
+2023-07-07 17:21:04,051 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:21:16,745 - INFO - processing in comment 0
+2023-07-07 17:21:16,757 - INFO - processing in comment 1
+2023-07-07 17:21:16,765 - INFO - processing in comment 2
+2023-07-07 17:21:16,771 - INFO - processing in comment 3
+2023-07-07 17:21:16,778 - INFO - processing in comment 4
+2023-07-07 17:21:16,786 - INFO - processing in comment 5
+2023-07-07 17:21:16,794 - INFO - processing in comment 6
+2023-07-07 17:21:16,801 - INFO - processing in comment 7
+2023-07-07 17:21:16,808 - INFO - processing in comment 8
+2023-07-07 17:21:16,814 - INFO - processing in comment 9
+2023-07-07 17:21:16,821 - INFO - processing in comment 10
+2023-07-07 17:21:16,827 - INFO - processing in comment 11
+2023-07-07 17:21:16,835 - INFO - processing in comment 12
+2023-07-07 17:21:16,843 - INFO - processing in comment 13
+2023-07-07 17:21:16,850 - INFO - processing in comment 14
+2023-07-07 17:21:16,856 - INFO - processing in comment 15
+2023-07-07 17:21:16,863 - INFO - processing in comment 16
+2023-07-07 17:21:16,873 - INFO - processing in comment 17
+2023-07-07 17:21:16,880 - INFO - processing in comment 18
+2023-07-07 17:21:16,886 - INFO - processing in comment 19
+2023-07-07 17:21:16,894 - INFO - processing in comment 20
+2023-07-07 17:21:16,901 - INFO - processing in comment 21
+2023-07-07 17:21:16,908 - INFO - processing in comment 22
+2023-07-07 17:21:16,913 - INFO - processing in comment 23
+2023-07-07 17:21:16,919 - INFO - processing in comment 24
+2023-07-07 17:21:16,927 - INFO - processing in comment 25
+2023-07-07 17:21:16,932 - INFO - processing in comment 26
+2023-07-07 17:21:16,942 - INFO - processing in comment 27
+2023-07-07 17:21:16,949 - INFO - processing in comment 28
+2023-07-07 17:21:16,959 - INFO - processing in url 1
+2023-07-07 17:21:46,933 - INFO - processing in comment 0
+2023-07-07 17:21:46,953 - INFO - processing in comment 1
+2023-07-07 17:21:46,964 - INFO - processing in comment 2
+2023-07-07 17:21:46,972 - INFO - processing in comment 3
+2023-07-07 17:21:46,986 - INFO - processing in comment 4
+2023-07-07 17:21:46,993 - INFO - processing in comment 5
+2023-07-07 17:21:47,000 - INFO - processing in comment 6
+2023-07-07 17:21:47,008 - INFO - processing in comment 7
+2023-07-07 17:21:47,016 - INFO - processing in comment 8
+2023-07-07 17:21:47,025 - INFO - processing in comment 9
+2023-07-07 17:21:47,033 - INFO - processing in url 2
+2023-07-07 17:23:24,520 - INFO - processing in comment 0
+2023-07-07 17:23:24,529 - INFO - processing in comment 1
+2023-07-07 17:23:24,539 - INFO - processing in comment 2
+2023-07-07 17:23:24,547 - INFO - processing in comment 3
+2023-07-07 17:23:24,556 - INFO - processing in comment 4
+2023-07-07 17:23:24,565 - INFO - processing in comment 5
+2023-07-07 17:23:24,572 - INFO - processing in comment 6
+2023-07-07 17:23:24,578 - INFO - processing in comment 7
+2023-07-07 17:23:24,583 - INFO - processing in comment 8
+2023-07-07 17:23:24,593 - INFO - processing in comment 9
+2023-07-07 17:23:24,601 - INFO - processing in comment 10
+2023-07-07 17:23:24,610 - INFO - processing in comment 11
+2023-07-07 17:23:24,623 - INFO - processing in comment 12
+2023-07-07 17:23:24,630 - INFO - processing in comment 13
+2023-07-07 17:23:24,638 - INFO - processing in comment 14
+2023-07-07 17:23:24,644 - INFO - processing in comment 15
+2023-07-07 17:23:24,657 - INFO - processing in comment 16
+2023-07-07 17:23:24,665 - INFO - processing in comment 17
+2023-07-07 17:23:24,673 - INFO - processing in comment 18
+2023-07-07 17:23:24,681 - INFO - processing in comment 19
+2023-07-07 17:23:24,690 - INFO - processing in comment 20
+2023-07-07 17:23:24,699 - INFO - processing in comment 21
+2023-07-07 17:23:24,706 - INFO - processing in comment 22
+2023-07-07 17:23:24,714 - INFO - processing in comment 23
+2023-07-07 17:23:24,722 - INFO - processing in comment 24
+2023-07-07 17:23:24,729 - INFO - processing in comment 25
+2023-07-07 17:23:24,736 - INFO - processing in comment 26
+2023-07-07 17:23:24,745 - INFO - processing in comment 27
+2023-07-07 17:23:24,751 - INFO - processing in comment 28
+2023-07-07 17:23:24,759 - INFO - processing in comment 29
+2023-07-07 17:23:24,768 - INFO - processing in comment 30
+2023-07-07 17:23:24,774 - INFO - processing in comment 31
+2023-07-07 17:23:24,781 - INFO - processing in comment 32
+2023-07-07 17:23:24,789 - INFO - processing in comment 33
+2023-07-07 17:23:24,801 - INFO - processing in comment 34
+2023-07-07 17:23:24,808 - INFO - processing in comment 35
+2023-07-07 17:23:24,819 - INFO - processing in comment 36
+2023-07-07 17:23:24,825 - INFO - processing in comment 37
+2023-07-07 17:23:24,831 - INFO - processing in comment 38
+2023-07-07 17:23:24,840 - INFO - processing in comment 39
+2023-07-07 17:23:24,845 - INFO - processing in comment 40
+2023-07-07 17:23:24,851 - INFO - processing in comment 41
+2023-07-07 17:23:24,859 - INFO - processing in comment 42
+2023-07-07 17:23:24,868 - INFO - processing in comment 43
+2023-07-07 17:23:24,874 - INFO - processing in comment 44
+2023-07-07 17:23:24,882 - INFO - processing in comment 45
+2023-07-07 17:23:24,888 - INFO - processing in comment 46
+2023-07-07 17:23:24,894 - INFO - processing in comment 47
+2023-07-07 17:23:24,900 - INFO - processing in comment 48
+2023-07-07 17:23:24,909 - INFO - processing in comment 49
+2023-07-07 17:23:24,914 - INFO - processing in comment 50
+2023-07-07 17:23:24,922 - INFO - processing in comment 51
+2023-07-07 17:23:24,931 - INFO - processing in comment 52
+2023-07-07 17:23:24,937 - INFO - processing in comment 53
+2023-07-07 17:23:24,943 - INFO - processing in comment 54
+2023-07-07 17:23:24,950 - INFO - processing in comment 55
+2023-07-07 17:23:24,956 - INFO - processing in comment 56
+2023-07-07 17:23:24,962 - INFO - processing in comment 57
+2023-07-07 17:23:24,968 - INFO - processing in comment 58
+2023-07-07 17:23:24,975 - INFO - processing in comment 59
+2023-07-07 17:23:24,982 - INFO - processing in comment 60
+2023-07-07 17:23:24,991 - INFO - processing in comment 61
+2023-07-07 17:23:25,000 - INFO - processing in comment 62
+2023-07-07 17:23:25,009 - INFO - processing in comment 63
+2023-07-07 17:23:25,017 - INFO - processing in comment 64
+2023-07-07 17:23:25,023 - INFO - processing in comment 65
+2023-07-07 17:23:25,033 - INFO - processing in comment 66
+2023-07-07 17:23:25,040 - INFO - processing in comment 67
+2023-07-07 17:23:25,047 - INFO - processing in comment 68
+2023-07-07 17:23:25,056 - INFO - processing in comment 69
+2023-07-07 17:23:25,067 - INFO - processing in comment 70
+2023-07-07 17:23:25,072 - INFO - processing in comment 71
+2023-07-07 17:23:25,079 - INFO - processing in comment 72
+2023-07-07 17:23:25,087 - INFO - processing in comment 73
+2023-07-07 17:23:25,096 - INFO - processing in comment 74
+2023-07-07 17:23:25,108 - INFO - processing in comment 75
+2023-07-07 17:23:25,118 - INFO - processing in comment 76
+2023-07-07 17:23:25,127 - INFO - processing in comment 77
+2023-07-07 17:23:25,132 - INFO - processing in comment 78
+2023-07-07 17:23:25,141 - INFO - processing in comment 79
+2023-07-07 17:23:25,147 - INFO - processing in comment 80
+2023-07-07 17:23:25,156 - INFO - processing in comment 81
+2023-07-07 17:23:25,169 - INFO - processing in comment 82
+2023-07-07 17:23:25,178 - INFO - processing in comment 83
+2023-07-07 17:23:25,187 - INFO - processing in comment 84
+2023-07-07 17:23:25,196 - INFO - processing in comment 85
+2023-07-07 17:23:25,204 - INFO - processing in comment 86
+2023-07-07 17:23:25,210 - INFO - processing in comment 87
+2023-07-07 17:23:25,220 - INFO - processing in comment 88
+2023-07-07 17:23:25,230 - INFO - processing in comment 89
+2023-07-07 17:23:25,238 - INFO - processing in comment 90
+2023-07-07 17:23:25,243 - INFO - processing in comment 91
+2023-07-07 17:23:25,254 - INFO - processing in url 3
+2023-07-07 17:24:07,243 - INFO - processing in comment 0
+2023-07-07 17:24:07,253 - INFO - processing in comment 1
+2023-07-07 17:24:07,260 - INFO - processing in comment 2
+2023-07-07 17:24:07,269 - INFO - processing in comment 3
+2023-07-07 17:24:07,275 - INFO - processing in comment 4
+2023-07-07 17:24:07,282 - INFO - processing in comment 5
+2023-07-07 17:24:07,289 - INFO - processing in comment 6
+2023-07-07 17:24:07,297 - INFO - processing in comment 7
+2023-07-07 17:24:07,307 - INFO - processing in comment 8
+2023-07-07 17:24:07,313 - INFO - processing in comment 9
+2023-07-07 17:24:07,319 - INFO - processing in comment 10
+2023-07-07 17:24:07,328 - INFO - processing in comment 11
+2023-07-07 17:24:07,336 - INFO - processing in comment 12
+2023-07-07 17:24:07,342 - INFO - processing in comment 13
+2023-07-07 17:24:07,349 - INFO - processing in comment 14
+2023-07-07 17:24:07,357 - INFO - processing in comment 15
+2023-07-07 17:24:07,366 - INFO - processing in comment 16
+2023-07-07 17:24:07,374 - INFO - processing in comment 17
+2023-07-07 17:24:07,380 - INFO - processing in comment 18
+2023-07-07 17:24:07,385 - INFO - processing in comment 19
+2023-07-07 17:24:07,394 - INFO - processing in comment 20
+2023-07-07 17:24:07,400 - INFO - processing in comment 21
+2023-07-07 17:24:07,408 - INFO - processing in comment 22
+2023-07-07 17:24:07,415 - INFO - processing in comment 23
+2023-07-07 17:24:07,423 - INFO - processing in comment 24
+2023-07-07 17:24:07,431 - INFO - processing in comment 25
+2023-07-07 17:24:07,437 - INFO - processing in comment 26
+2023-07-07 17:24:07,446 - INFO - processing in comment 27
+2023-07-07 17:24:07,452 - INFO - processing in comment 28
+2023-07-07 17:24:07,459 - INFO - processing in comment 29
+2023-07-07 17:24:07,467 - INFO - processing in comment 30
+2023-07-07 17:24:07,473 - INFO - processing in comment 31
+2023-07-07 17:24:07,480 - INFO - processing in comment 32
+2023-07-07 17:24:22,042 - INFO - processing in url 0
+2023-07-07 17:24:49,896 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:25:01,612 - INFO - processing in comment 0
+2023-07-07 17:25:01,624 - INFO - processing in comment 1
+2023-07-07 17:25:01,632 - INFO - processing in comment 2
+2023-07-07 17:25:01,637 - INFO - processing in comment 3
+2023-07-07 17:25:01,645 - INFO - processing in comment 4
+2023-07-07 17:25:01,653 - INFO - processing in comment 5
+2023-07-07 17:25:01,662 - INFO - processing in comment 6
+2023-07-07 17:25:01,669 - INFO - processing in comment 7
+2023-07-07 17:25:01,677 - INFO - processing in comment 8
+2023-07-07 17:25:01,684 - INFO - processing in comment 9
+2023-07-07 17:25:01,691 - INFO - processing in comment 10
+2023-07-07 17:25:01,697 - INFO - processing in comment 11
+2023-07-07 17:25:01,705 - INFO - processing in comment 12
+2023-07-07 17:25:01,713 - INFO - processing in comment 13
+2023-07-07 17:25:01,719 - INFO - processing in comment 14
+2023-07-07 17:25:01,726 - INFO - processing in comment 15
+2023-07-07 17:25:01,733 - INFO - processing in comment 16
+2023-07-07 17:25:01,743 - INFO - processing in comment 17
+2023-07-07 17:25:01,749 - INFO - processing in comment 18
+2023-07-07 17:25:01,756 - INFO - processing in comment 19
+2023-07-07 17:25:01,764 - INFO - processing in comment 20
+2023-07-07 17:25:01,770 - INFO - processing in comment 21
+2023-07-07 17:25:01,777 - INFO - processing in comment 22
+2023-07-07 17:25:01,782 - INFO - processing in comment 23
+2023-07-07 17:25:01,789 - INFO - processing in comment 24
+2023-07-07 17:25:01,795 - INFO - processing in comment 25
+2023-07-07 17:25:01,800 - INFO - processing in comment 26
+2023-07-07 17:25:01,811 - INFO - processing in comment 27
+2023-07-07 17:25:01,817 - INFO - processing in comment 28
+2023-07-07 17:25:01,827 - INFO - processing in url 1
+2023-07-07 17:25:30,633 - INFO - processing in comment 0
+2023-07-07 17:25:30,654 - INFO - processing in comment 1
+2023-07-07 17:25:30,664 - INFO - processing in comment 2
+2023-07-07 17:25:30,672 - INFO - processing in comment 3
+2023-07-07 17:25:30,686 - INFO - processing in comment 4
+2023-07-07 17:25:30,694 - INFO - processing in comment 5
+2023-07-07 17:25:30,701 - INFO - processing in comment 6
+2023-07-07 17:25:30,708 - INFO - processing in comment 7
+2023-07-07 17:25:30,717 - INFO - processing in comment 8
+2023-07-07 17:25:30,725 - INFO - processing in comment 9
+2023-07-07 17:25:30,734 - INFO - processing in url 2
+2023-07-07 17:26:08,375 - INFO - processing in comment 0
+2023-07-07 17:26:08,384 - INFO - processing in comment 1
+2023-07-07 17:26:08,393 - INFO - processing in comment 2
+2023-07-07 17:26:08,402 - INFO - processing in comment 3
+2023-07-07 17:26:08,410 - INFO - processing in comment 4
+2023-07-07 17:26:08,416 - INFO - processing in comment 5
+2023-07-07 17:26:08,424 - INFO - processing in comment 6
+2023-07-07 17:26:08,431 - INFO - processing in comment 7
+2023-07-07 17:26:08,441 - INFO - processing in comment 8
+2023-07-07 17:26:08,448 - INFO - processing in comment 9
+2023-07-07 17:26:08,453 - INFO - processing in comment 10
+2023-07-07 17:26:08,462 - INFO - processing in comment 11
+2023-07-07 17:26:08,470 - INFO - processing in comment 12
+2023-07-07 17:26:08,476 - INFO - processing in comment 13
+2023-07-07 17:26:08,483 - INFO - processing in comment 14
+2023-07-07 17:26:08,491 - INFO - processing in comment 15
+2023-07-07 17:26:08,500 - INFO - processing in comment 16
+2023-07-07 17:26:08,508 - INFO - processing in comment 17
+2023-07-07 17:26:08,515 - INFO - processing in comment 18
+2023-07-07 17:26:08,519 - INFO - processing in comment 19
+2023-07-07 17:26:08,527 - INFO - processing in comment 20
+2023-07-07 17:26:08,534 - INFO - processing in comment 21
+2023-07-07 17:26:08,542 - INFO - processing in comment 22
+2023-07-07 17:26:08,549 - INFO - processing in comment 23
+2023-07-07 17:26:08,557 - INFO - processing in comment 24
+2023-07-07 17:26:08,564 - INFO - processing in comment 25
+2023-07-07 17:26:08,571 - INFO - processing in comment 26
+2023-07-07 17:26:08,580 - INFO - processing in comment 27
+2023-07-07 17:26:08,586 - INFO - processing in comment 28
+2023-07-07 17:26:08,594 - INFO - processing in comment 29
+2023-07-07 17:26:08,601 - INFO - processing in comment 30
+2023-07-07 17:26:08,608 - INFO - processing in comment 31
+2023-07-07 17:26:08,615 - INFO - processing in comment 32
+2023-07-07 17:27:31,145 - INFO - processing in url 0
+2023-07-07 17:27:58,734 - WARNING - Message: element not interactable: [object HTMLDivElement] has no size and location
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0060A813+48355]
+	(No symbol) [0x0059C4B1]
+	(No symbol) [0x004A5358]
+	(No symbol) [0x004A87A1]
+	(No symbol) [0x004A99E1]
+	(No symbol) [0x004A9A80]
+	(No symbol) [0x004D499F]
+	(No symbol) [0x004D42A3]
+	(No symbol) [0x005026D2]
+	(No symbol) [0x004EA73C]
+	(No symbol) [0x004FC922]
+	(No symbol) [0x004EA536]
+	(No symbol) [0x004C82DC]
+	(No symbol) [0x004C93DD]
+	GetHandleVerifier [0x0086AABD+2539405]
+	GetHandleVerifier [0x008AA78F+2800735]
+	GetHandleVerifier [0x008A456C+2775612]
+	GetHandleVerifier [0x006951E0+616112]
+	(No symbol) [0x005A5F8C]
+	(No symbol) [0x005A2328]
+	(No symbol) [0x005A240B]
+	(No symbol) [0x00594FF7]
+	BaseThreadInitThunk [0x75907D59+25]
+	RtlInitializeExceptionChain [0x778FB74B+107]
+	RtlClearBits [0x778FB6CF+191]
+
+2023-07-07 17:28:10,638 - INFO - processing in comment 0
+2023-07-07 17:28:10,650 - INFO - processing in comment 1
+2023-07-07 17:28:10,659 - INFO - processing in comment 2
+2023-07-07 17:28:10,664 - INFO - processing in comment 3
+2023-07-07 17:28:10,670 - INFO - processing in comment 4
+2023-07-07 17:28:10,679 - INFO - processing in comment 5
+2023-07-07 17:28:10,687 - INFO - processing in comment 6
+2023-07-07 17:28:10,695 - INFO - processing in comment 7
+2023-07-07 17:28:10,701 - INFO - processing in comment 8
+2023-07-07 17:28:10,708 - INFO - processing in comment 9
+2023-07-07 17:28:10,714 - INFO - processing in comment 10
+2023-07-07 17:28:10,720 - INFO - processing in comment 11
+2023-07-07 17:28:10,728 - INFO - processing in comment 12
+2023-07-07 17:28:10,736 - INFO - processing in comment 13
+2023-07-07 17:28:10,743 - INFO - processing in comment 14
+2023-07-07 17:28:10,750 - INFO - processing in comment 15
+2023-07-07 17:28:10,756 - INFO - processing in comment 16
+2023-07-07 17:28:10,766 - INFO - processing in comment 17
+2023-07-07 17:28:10,772 - INFO - processing in comment 18
+2023-07-07 17:28:10,779 - INFO - processing in comment 19
+2023-07-07 17:28:10,787 - INFO - processing in comment 20
+2023-07-07 17:28:10,794 - INFO - processing in comment 21
+2023-07-07 17:28:10,800 - INFO - processing in comment 22
+2023-07-07 17:28:10,805 - INFO - processing in comment 23
+2023-07-07 17:28:10,812 - INFO - processing in comment 24
+2023-07-07 17:28:10,818 - INFO - processing in comment 25
+2023-07-07 17:28:10,824 - INFO - processing in comment 26
+2023-07-07 17:28:10,834 - INFO - processing in comment 27
+2023-07-07 17:28:10,841 - INFO - processing in comment 28
+2023-07-07 17:28:10,850 - INFO - processing in url 1
+2023-07-07 17:28:40,452 - INFO - processing in comment 0
+2023-07-07 17:28:40,473 - INFO - processing in comment 1
+2023-07-07 17:28:40,483 - INFO - processing in comment 2
+2023-07-07 17:28:40,491 - INFO - processing in comment 3
+2023-07-07 17:28:40,505 - INFO - processing in comment 4
+2023-07-07 17:28:40,513 - INFO - processing in comment 5
+2023-07-07 17:28:40,520 - INFO - processing in comment 6
+2023-07-07 17:28:40,527 - INFO - processing in comment 7
+2023-07-07 17:28:40,535 - INFO - processing in comment 8
+2023-07-07 17:28:40,544 - INFO - processing in comment 9
+2023-07-07 17:28:40,553 - INFO - processing in url 2
+2023-07-07 17:29:18,165 - INFO - processing in comment 0
+2023-07-07 17:29:18,174 - INFO - processing in comment 1
+2023-07-07 17:29:18,182 - INFO - processing in comment 2
+2023-07-07 17:29:18,191 - INFO - processing in comment 3
+2023-07-07 17:29:18,198 - INFO - processing in comment 4
+2023-07-07 17:29:18,204 - INFO - processing in comment 5
+2023-07-07 17:29:18,213 - INFO - processing in comment 6
+2023-07-07 17:29:18,220 - INFO - processing in comment 7
+2023-07-07 17:29:18,231 - INFO - processing in comment 8
+2023-07-07 17:29:18,238 - INFO - processing in comment 9
+2023-07-07 17:29:18,244 - INFO - processing in comment 10
+2023-07-07 17:29:18,253 - INFO - processing in comment 11
+2023-07-07 17:29:18,262 - INFO - processing in comment 12
+2023-07-07 17:29:18,268 - INFO - processing in comment 13
+2023-07-07 17:29:18,276 - INFO - processing in comment 14
+2023-07-07 17:29:18,284 - INFO - processing in comment 15
+2023-07-07 17:29:18,293 - INFO - processing in comment 16
+2023-07-07 17:29:18,301 - INFO - processing in comment 17
+2023-07-07 17:29:18,309 - INFO - processing in comment 18
+2023-07-07 17:29:18,314 - INFO - processing in comment 19
+2023-07-07 17:29:18,322 - INFO - processing in comment 20
+2023-07-07 17:29:18,329 - INFO - processing in comment 21
+2023-07-07 17:29:18,337 - INFO - processing in comment 22
+2023-07-07 17:29:18,344 - INFO - processing in comment 23
+2023-07-07 17:29:18,352 - INFO - processing in comment 24
+2023-07-07 17:29:18,360 - INFO - processing in comment 25
+2023-07-07 17:29:18,367 - INFO - processing in comment 26
+2023-07-07 17:29:18,374 - INFO - processing in comment 27
+2023-07-07 17:29:18,381 - INFO - processing in comment 28
+2023-07-07 17:29:18,388 - INFO - processing in comment 29
+2023-07-07 17:29:18,396 - INFO - processing in comment 30
+2023-07-07 17:29:18,403 - INFO - processing in comment 31
+2023-07-07 17:29:18,410 - INFO - processing in comment 32

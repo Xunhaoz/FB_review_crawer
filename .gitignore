@@ -1,1 +1,3 @@
 venv/
+reviews/*
+fb-scraper.log

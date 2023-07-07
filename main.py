@@ -30,7 +30,7 @@ if __name__ == "__main__":
                     fan_page_name = url.split("/")[3]
                     reviews = scraper.get_reviews(url)
                     df = pd.DataFrame(reviews)
-                    df.to_csv(f"{fan_page_name}.csv")
+                    df.to_csv(f"./reviews/{fan_page_name}.csv")
                     break
                 except Exception as e:
                     scraper.logger.warning(e)
